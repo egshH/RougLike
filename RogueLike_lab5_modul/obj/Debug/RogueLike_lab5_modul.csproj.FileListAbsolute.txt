@@ -1,0 +1,7 @@
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\obj\Debug\RogueLike_lab5_modul.csproj.AssemblyReference.cache
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\obj\Debug\RogueLike_lab5_modul.csproj.CoreCompileInputs.cache
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\bin\Debug\RogueLike_lab5_modul.exe.config
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\bin\Debug\RogueLike_lab5_modul.exe
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\bin\Debug\RogueLike_lab5_modul.pdb
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\obj\Debug\RogueLike_lab5_modul.exe
+C:\Users\yegor\Desktop\Modul\RogueLike_lab5_modul\obj\Debug\RogueLike_lab5_modul.pdb
